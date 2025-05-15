@@ -26,19 +26,24 @@
 
  The game is saving by modifying the userPreferences file.  This means that 1 save will exist per .exe file.  
 
+ 
 # 🎮 Game Previews
 
-### 🎰 Simple Slots
-![Simple Slots](screenshots/SimpleSlotGIF.gif)
+<div align="center">
 
-### 🃏 Jackpot Slots
-![Jackpot Slots](screenshots/JackpotSlotsGIFF.gif)
+<h2>🎰 Simple Slots</h2>
+<img src="screenshots/SimpleSlotGIF.gif" width="500"/>
 
-### 🎡 Double Or Nothing
-![Double or Nothing](screenshots/DoubleOrNothingGIFF.gif)
+<h2>🃏 Jackpot Slots</h2>
+<img src="screenshots/JackpotSlotsGIFF.gif" width="500"/>
 
-### 🎡 BlackJack
-![BlackJack](screenshots/BlackJackGIF.gif)
+<h2>🎯 Double Or Nothing</h2>
+<img src="screenshots/DoubleOrNothingGIFF.gif" width="500"/>
 
-### 🎡 Roulette
-![Roulette Screenshot](screenshots/RouletteGIF.gif)
+<h2>🂡 BlackJack</h2>
+<img src="screenshots/BlackJackGIF.gif" width="500"/>
+
+<h2>🎡 Roulette</h2>
+<img src="screenshots/RouletteGIF.gif" width="500"/>
+
+</div>
