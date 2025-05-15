@@ -32,13 +32,13 @@
 ![Simple Slots](screenshots/SimpleSlotGIF.gif)
 
 ### 🃏 Jackpot Slots
-![Blackjack Screenshot](screenshots/JackpotSlotsGIFF.gif)
+![Jackpot Slots](screenshots/JackpotSlotsGIFF.gif)
 
 ### 🎡 Double Or Nothing
-![Roulette Screenshot](screenshots/roulette.png)
+![Double or Nothing](screenshots/DoubleOrNothingGIFF.gif)
 
 ### 🎡 BlackJack
-![Roulette Screenshot](screenshots/roulette.png)
+![BlackJack](screenshots/roulette.png)
 
 ### 🎡 Roulette
 ![Roulette Screenshot](screenshots/roulette.png)
