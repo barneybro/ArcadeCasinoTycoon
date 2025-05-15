@@ -38,7 +38,7 @@
 ![Double or Nothing](screenshots/DoubleOrNothingGIFF.gif)
 
 ### 🎡 BlackJack
-![BlackJack](screenshots/roulette.png)
+![BlackJack](screenshots/BlackJackGIF.gif)
 
 ### 🎡 Roulette
-![Roulette Screenshot](screenshots/roulette.png)
+![Roulette Screenshot](screenshots/RouletteGIF.gif)
