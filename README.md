@@ -29,7 +29,7 @@
 # 🎮 Game Previews
 
 ### 🎰 Jackpot Slot
-![Jackpot Slot Screenshot](screenshots/jackpot_slot.png)
+![Simple Slots](screenshots/SimpleSlotGIF.gif)
 
 ### 🃏 Blackjack
 ![Blackjack Screenshot](screenshots/blackjack.png)
