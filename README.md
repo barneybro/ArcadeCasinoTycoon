@@ -28,11 +28,17 @@
 
 # 🎮 Game Previews
 
-### 🎰 Jackpot Slot
+### 🎰 Simple Slots
 ![Simple Slots](screenshots/SimpleSlotGIF.gif)
 
-### 🃏 Blackjack
-![Blackjack Screenshot](screenshots/blackjack.png)
+### 🃏 Jackpot Slots
+![Blackjack Screenshot](screenshots/JackpotSlotsGIFF.gif)
+
+### 🎡 Double Or Nothing
+![Roulette Screenshot](screenshots/roulette.png)
+
+### 🎡 BlackJack
+![Roulette Screenshot](screenshots/roulette.png)
 
 ### 🎡 Roulette
 ![Roulette Screenshot](screenshots/roulette.png)
